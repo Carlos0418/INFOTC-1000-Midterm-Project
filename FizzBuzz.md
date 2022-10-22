@@ -1,9 +1,13 @@
 ## FizzBuzz Code
 <!DOCTYPE html>
+
 <html>
 <head>
+	
 <meta charset="UTF-8">
+	
 <title>Fizz Buzz</title>
+	
 <script>
 
 function fizzbuzz() {
