@@ -1,6 +1,6 @@
 ## Code Block
 
-[Back To Home]{https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/README.md#infotc-1000-midterm-project)
+[Back To Home](https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/README.md#infotc-1000-midterm-project)
 
 print("My name is Carlos Valdez")
 
