@@ -12,4 +12,4 @@ Hello! My name is Carlos Valdez and this is a GitHub about myself! I am currentl
 
 [Summer Vacation](https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/Vaca.md#cancun)
 
-[Fun Fact]()
+[Fun Fact](https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/FunFact.md#coke-and-mentos)
