@@ -6,4 +6,4 @@ Hello! My name is Carlos Valdez and this is a GitHub about myself! I am currentl
 
 [Favorite Places to Eat](https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/FavoritePlacesToEat.md)
 
-[Code Block]
+[Code Block](https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/CodeBlock.md#code-block)
