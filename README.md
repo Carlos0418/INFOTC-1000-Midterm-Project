@@ -10,4 +10,4 @@ Hello! My name is Carlos Valdez and this is a GitHub about myself! I am currentl
 
 [Career](https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/Career.md#middle-school-teacher)
 
-[Summer Vacation]()
+[Summer Vacation](https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/Vaca.md#cancun)
