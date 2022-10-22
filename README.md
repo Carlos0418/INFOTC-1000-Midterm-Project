@@ -5,3 +5,4 @@ Hello! My name is Carlos Valdez and this is a GitHub about myself! I am currentl
 ![MIZZOU!](https://th.bing.com/th/id/R.e0d8b98364dfcdd439611fdbb3167155?rik=ApgYlqhJ31gCkg&riu=http%3a%2f%2fwww.bobleesays.com%2fwp-content%2fuploads%2f2016%2f11%2fMizzou.jpg&ehk=JSpHzFmLYFo5xriHNl3Nnyt2vveGOSsEIRsImugiCqA%3d&risl=&pid=ImgRaw&r=0)
 
 [Favorite Places to Eat](https://github.com/Carlos0418/INFOTC-1000-Midterm-Project/blob/main/FavoritePlacesToEat.md)
+
